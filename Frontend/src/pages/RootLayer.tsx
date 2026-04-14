@@ -1,5 +1,5 @@
 import { Outlet } from "react-router"
-import MainNavigation from "../compnents/MainNavigation"
+import MainNavigation from "../compnents/landing-page-components/MainNavigation"
 
 
 const RootLayer = () => {

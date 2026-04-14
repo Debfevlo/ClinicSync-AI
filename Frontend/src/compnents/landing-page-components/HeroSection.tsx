@@ -3,7 +3,7 @@
 const HeroSection = () => {
   return (
     
-        <div className="relative flex items-center justify-center min-h-[80vh] px-4">
+  <div className="relative flex items-center justify-center min-h-[80vh] px-4 mb-12">
 
   {/* CENTER CONTENT */}
   <div className="text-center max-w-2xl z-10">
